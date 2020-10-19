@@ -6,6 +6,8 @@
   'database' => getenv('MYSQL_DATABASE'),
   'username' => getenv('MYSQL_USER'),
   'password' => getenv('MYSQL_PASSWORD'),
+  
+---------------------------------------------------
 
 1. Install Drupal with composer in drupal/ path
 2. Change the credentials in the docker.env file
